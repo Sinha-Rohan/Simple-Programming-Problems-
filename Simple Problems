@@ -1,0 +1,17 @@
+#Author: Rohan Sinha
+#Date: 9/12/2021
+#Email: sinharohan.work@gmail.com
+#Last modified by: Rohan Sinha
+#Last modify time: 2021-12-9 19:41:40
+#Program aims to solve the first 10 questions on "Simple Programming Problems"
+#Link: https://adriann.github.io/programming_problems.html
+
+def Problem_1():
+  print("1.) Hello World")
+  
+
+
+
+
+print("----Problem 1----")
+Problem_1()
